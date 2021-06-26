@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\elvin\source\repos\project93\project93\source.c(67): warning C4047: =: "int" отличается по уровням косвенного обращения от "int (__cdecl *)()"
+LINK : fatal error LNK1561: точка входа должна быть определена

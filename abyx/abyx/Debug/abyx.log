@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\elvin\source\repos\abyx\abyx\source.c(67): warning C4047: =: "int" отличается по уровням косвенного обращения от "int (__cdecl *)()"
+  abyx.vcxproj -> C:\Users\Elvin\source\repos\abyx\Debug\abyx.exe
