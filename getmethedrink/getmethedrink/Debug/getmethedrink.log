@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\elvin\source\repos\getmethedrink\getmethedrink\source.c(67): warning C4047: =: "int" отличается по уровням косвенного обращения от "int (__cdecl *)()"
+  getmethedrink.vcxproj -> C:\Users\Elvin\source\repos\getmethedrink\Debug\getmethedrink.exe

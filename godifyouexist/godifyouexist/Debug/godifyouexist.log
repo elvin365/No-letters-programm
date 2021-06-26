@@ -1,0 +1,16 @@
+﻿  Source.c
+c:\users\elvin\source\repos\godifyouexist\godifyouexist\source.c(67): warning C4047: =: "int" отличается по уровням косвенного обращения от "int (__cdecl *)()"
+MSVCRTD.lib(init.obj) : error LNK2019: ссылка на неразрешенный внешний символ __CrtDbgReport в функции __CRT_RTC_INIT
+MSVCRTD.lib(init.obj) : error LNK2019: ссылка на неразрешенный внешний символ __CrtDbgReportW в функции __CRT_RTC_INITW
+MSVCRTD.lib(error.obj) : error LNK2019: ссылка на неразрешенный внешний символ _strcpy_s в функции "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPAXPBD@Z)
+MSVCRTD.lib(error.obj) : error LNK2019: ссылка на неразрешенный внешний символ _strcat_s в функции "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPAXPBD@Z)
+MSVCRTD.lib(error.obj) : error LNK2019: ссылка на неразрешенный внешний символ ___stdio_common_vsprintf_s в функции __vsprintf_s_l
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ __wmakepath_s в функции "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned int)" (?GetPdbDllPathFromFilePath@@YAHPB_WPA_WI@Z)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ __wsplitpath_s в функции "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned int)" (?GetPdbDllPathFromFilePath@@YAHPB_WPA_WI@Z)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ _wcscpy_s в функции "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned int)" (?GetPdbDllPathFromFilePath@@YAHPB_WPA_WI@Z)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ ___vcrt_GetModuleFileNameW в функции "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ ___vcrt_GetModuleHandleW в функции "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ ___vcrt_LoadLibraryExW в функции "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ)
+MSVCRTD.lib(chandler4_noexcept.obj) : error LNK2019: ссылка на неразрешенный внешний символ _terminate в функции __except_handler4_noexcept
+MSVCRTD.lib(chandler4gs.obj) : error LNK2019: ссылка на неразрешенный внешний символ __except_handler4_common в функции __except_handler4
+C:\Users\Elvin\source\repos\godifyouexist\Debug\godifyouexist.exe : fatal error LNK1120: неразрешенных внешних элементов: 13
